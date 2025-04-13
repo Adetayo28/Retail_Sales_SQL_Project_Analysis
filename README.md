@@ -64,6 +64,7 @@ WHERE
 	OR category IS NULL	OR quantity IS NULL	OR price_per_unit IS NULL
     OR cogs IS NULL	OR total_sale IS NULL;
 
+
  -- Query to check if Null/missing data could be filled
 SELECT * FROM retail_sales
 WHERE customer_id IN (17, 16, 67, 89, 77)
@@ -74,6 +75,8 @@ SELECT * FROM retail_sales
 WHERE customer_id IN (130, 25, 94, 116, 101)
 	AND gender = 'Male'
 ORDER BY customer_id;
+
+
 
 DELETE FROM retail_sales
 WHERE 
