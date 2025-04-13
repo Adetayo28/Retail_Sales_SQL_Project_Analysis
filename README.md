@@ -65,6 +65,7 @@ WHERE
     	OR cogs IS NULL OR total_sale IS NULL;
 
 
+
  -- Query to check if Null/missing data could be filled
 SELECT * FROM retail_sales
 WHERE customer_id IN (17, 16, 67, 89, 77)
@@ -229,7 +230,7 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 ### Stay Updated and Join the Community
 
-For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
+For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media 
 
 - **LinkedIn**: [Connect with me professionally](https://www.;inkedin.com/in/adetayo-akinsola-44a4011b3/)
 
