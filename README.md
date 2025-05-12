@@ -17,6 +17,7 @@ This project is designed to demonstrate SQL skills and techniques typically used
 ## Tools Used
 1. **PostgreSQL**
 2. **pgAdmin**
+3. **SQL**
    
 
 ## Project Structure
@@ -230,11 +231,7 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 ## Author
 
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
-
-### Stay Updated and Join the Community
-
-For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media 
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch! 
 
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/adetayo-akinsola-44a4011b3/)
 
